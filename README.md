@@ -1,4 +1,4 @@
-# used-car-price-prediction
+# Used Car Price Prediction
 Machine Learning project for predicting used car selling prices using Linear Regression and Lasso Regression with data preprocessing, categorical encoding, model evaluation, and price prediction analysis.
 # 🚗 Used Car Price Prediction Using Machine Learning
 
